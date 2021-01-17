@@ -1,7 +1,9 @@
 *.log
+.env
 .DS_Store
 db.php
 debug.log
+vendor
 /advanced-cache.php
 /backup*
 /blogs.dir/
